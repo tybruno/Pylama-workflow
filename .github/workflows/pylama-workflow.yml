@@ -1,5 +1,5 @@
 
-name: Lint
+name: lint-pylama
 
 on: workflow_call
 
